@@ -40,6 +40,16 @@ echo "<script>window.location.href ='forgot-password.php'</script>";
 		<link rel="stylesheet" href="assets/css/plugins.css">
 		<link rel="stylesheet" href="assets/css/themes/theme-1.css" id="skin_color" />
 	</head>
+		<style>
+body {
+  background-image: url('https://wallpaperboat.com/wp-content/uploads/2020/09/21/55222/medical-10.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+</style>
 	<body class="login">
 		<div class="row">
 			<div class="main-login col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
