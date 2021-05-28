@@ -51,7 +51,14 @@ return true;
 		
 
 	</head>
-
+	<style>
+body {
+  background-image: url('https://empathiq.io/wp-content/uploads/2015/12/20170713_DoctorPatient-1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 	<body class="login">
 		<!-- start: REGISTRATION -->
 		<div class="row">
