@@ -55,7 +55,7 @@ exit();
 	</head>
 	<style>
 body {
-  background-image: url('https://wallpaperplay.com/walls/full/5/f/3/176862.jpg');
+  background-image: url('https://wallpaperboat.com/wp-content/uploads/2020/09/21/55222/medical-10.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
